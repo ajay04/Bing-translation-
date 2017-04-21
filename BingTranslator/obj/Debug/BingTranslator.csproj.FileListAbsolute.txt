@@ -1,0 +1,13 @@
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\bin\Debug\BingTranslator.exe.config
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\bin\Debug\BingTranslator.exe
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\bin\Debug\BingTranslator.pdb
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\BingTranslator.csprojResolveAssemblyReference.cache
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\MainWindow.baml
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\MainWindow.g.cs
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\App.g.cs
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\BingTranslator_MarkupCompile.cache
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\BingTranslator.g.resources
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\BingTranslator.Properties.Resources.resources
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\BingTranslator.csproj.GenerateResource.Cache
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\BingTranslator.exe
+C:\Users\imgpoint1\Desktop\c#\BingTranslator-master\BingTranslator\obj\Debug\BingTranslator.pdb
